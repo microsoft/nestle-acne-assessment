@@ -9,7 +9,7 @@ There are two main functions of the mobile app:
 
 It allows Nestlé Skin Health to actively engage with their customers, make dermatological expertise user-friendly and accessible at the palms of hands, and address their customers’ needs promptly (as shown in the following Figure). This application significantly shortens the feedback loop for their products with real-time customer data, thus enabling the company to proactively design new or improve existing products.
 
-![Screenshot](assets/FullCircle_V2.png)
+![Screenshot](assets/First image in code story.png)
 
 
 Here is the Decoded Show for this work:
